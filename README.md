@@ -1,7 +1,7 @@
 <h2 align="left">Hello world! 👋</h2>
 <h2 align="left">My name is Nikita Koba and this is my GitHub profile!</h2>
 
-
+![](https://komarev.com/ghpvc/?username=ZeroSpline)
 
 
 <!--
