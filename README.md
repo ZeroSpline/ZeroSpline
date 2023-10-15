@@ -1,4 +1,4 @@
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47vl24fpmy9hdgv5eevoaev738jrjbqmkpot9ux5pm&ep=v1_gifs_search&rid=giphy.gif&ct=g))
+![Alt Text](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
 
 <h2 align="left">Hello world! 👋</h2>
 <h2 align="left">My name is Nikita Koba and this is my GitHub profile!</h2>
