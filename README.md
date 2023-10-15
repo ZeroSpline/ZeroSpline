@@ -19,7 +19,7 @@
 
 <h3 align="left">🛠 Languages and Tools :</h3>
 
-![](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40" />
 
 
 <!--
