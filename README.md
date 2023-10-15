@@ -1,6 +1,5 @@
-### Hi there 👋
-<h2 align="left">Hello world!</h2>
-<h3 align="left">My name is Nikita Koba and this is my GitHub profile!</h3>
+<h2 align="left">Hello world! 👋</h2>
+<h2 align="left">My name is Nikita Koba and this is my GitHub profile!</h2>
 
 
 
