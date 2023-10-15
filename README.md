@@ -5,6 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=ZeroSpline)
 
+---
+
 <h3 align="left">📝 About Me:</h3>
 
 - 🚀 I am Data Scientist from Russia.
