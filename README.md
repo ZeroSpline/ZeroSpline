@@ -6,11 +6,11 @@
 ![](https://komarev.com/ghpvc/?username=ZeroSpline)
 
 <h3 align="left">📝 About Me:</h3>
-- 👨‍💻 I am Data Scientist from Russia.
-- 👀 I am looking for a new experience currently.
-- 🤖 Very interested in Computer Vision and Natural Language Processing!
-- 🛹 I am into skateboarding and watching Stand-Up shows.
-- 💻 You can contact me via telegram https://t.me/skyspline
+* 👨‍💻 I am Data Scientist from Russia.
+* 👀 I am looking for a new experience currently.
+* 🤖 Very interested in Computer Vision and Natural Language Processing!
+* 🛹 I am into skateboarding and watching Stand-Up shows.
+* 💻 You can contact me via telegram https://t.me/skyspline
 
 
 
