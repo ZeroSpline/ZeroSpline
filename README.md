@@ -1,7 +1,8 @@
 ### Hi there 👋
-<h1 align="center">Hello world!, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+<h2 align="left">Hello world!</h2>
+<h3 align="left">My name is Nikita Koba and this is my GitHub profile!</h3>
+
+
 
 
 <!--
