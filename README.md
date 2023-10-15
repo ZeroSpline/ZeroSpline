@@ -18,19 +18,12 @@
 ---
 
 <h3 align="left">🛠 Languages and Tools :</h3>
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="80" height="80" />
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="80" height="80" />
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="80" height="80" />
-
 <img src="https://camo.githubusercontent.com/ceadf8d37c3b54d631a2824c6a36d1efedf9f6a44239a7deece27aa384607d9c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672f32363070782d5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672e706e67" width="80" height="50" />
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="80" height="80" />
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="80" height="80" />
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="80" height="80" />
 
 
