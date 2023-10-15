@@ -29,6 +29,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" />
 </div>
 
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroSpline&theme=darcula&show_icons=true&layout=compact&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ZeroSpline/ZeroSpline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
