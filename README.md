@@ -10,7 +10,7 @@
 - 👀 I am looking for a new experience currently.
 - 🤖 Very interested in Computer Vision and Natural Language Processing!
 - 🛹 I am into skateboarding and watching Stand-Up shows.
-- 💻 You can contact me via telegram https://t.me/Greedisgood999999
+- 💻 You can contact me via telegram https://t.me/skyspline
 
 
 
