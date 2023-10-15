@@ -18,7 +18,7 @@
 ---
 
 <h3 align="left">🛠 Languages and Tools :</h3>
-
+<div id="header" align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="80" height="80" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="80" height="80" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="80" height="80" />
@@ -26,7 +26,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="80" height="80" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="80" height="80" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="80" height="80" />
-
+</div>
 
 <!--
 **ZeroSpline/ZeroSpline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
