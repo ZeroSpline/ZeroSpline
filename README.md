@@ -1,4 +1,6 @@
+<div id="header" align="center">
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="140" height="140" />
+</div>
 
 <h2 align="center">Hello world! 👋</h2>
 <h2 align="center">My name is Nikita Koba and this is my GitHub profile!</h2>
