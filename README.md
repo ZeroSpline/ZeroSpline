@@ -1,6 +1,4 @@
-![Alt Text]()
-
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" height="80" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" height="100" />
 
 <h2 align="left">Hello world! 👋</h2>
 <h2 align="left">My name is Nikita Koba and this is my GitHub profile!</h2>
