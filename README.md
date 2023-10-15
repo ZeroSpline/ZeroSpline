@@ -18,6 +18,7 @@
 ---
 
 <h3 align="left">🛠 Languages and Tools :</h3>
+
 <div id="header" align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="80" height="80" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="80" height="80" />
