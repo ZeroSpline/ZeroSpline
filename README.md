@@ -1,4 +1,6 @@
-![Alt Text](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif = 80x80)
+![Alt Text]()
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80" height="80" />
 
 <h2 align="left">Hello world! 👋</h2>
 <h2 align="left">My name is Nikita Koba and this is my GitHub profile!</h2>
