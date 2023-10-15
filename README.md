@@ -6,20 +6,13 @@
 ![](https://komarev.com/ghpvc/?username=ZeroSpline)
 
 <h3 align="left">📝 About Me:</h3>
-* 👨‍💻 I am Data Scientist from Russia.
-* 👀 I am looking for a new experience currently.
-* 🤖 Very interested in Computer Vision and Natural Language Processing!
-* 🛹 I am into skateboarding and watching Stand-Up shows.
-* 💻 You can contact me via telegram https://t.me/skyspline
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨‍💻 I am Data Scientist from Russia.
+- 👀 I am looking for a new experience currently.
+- 🤖 Very interested in Computer Vision and Natural Language Processing!
+- 🛹 I am into skateboarding and watching Stand-Up shows.
+- 💻 You can contact me via telegram https://t.me/skyspline
+
 
 <!--
 **ZeroSpline/ZeroSpline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
