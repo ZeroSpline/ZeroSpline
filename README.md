@@ -9,7 +9,7 @@
 
 <h3 align="left">📝 About Me :</h3>
 
-- 🚀 I am Data Scientist from Russia.
+- 🚀 I am Data Science student from Russia.
 - ⚡ I am looking for a new experience currently.
 - 💻 Very interested in Time Series and Computer Vision!
 - 🌊 I am into swimming and watching comedy shows.
