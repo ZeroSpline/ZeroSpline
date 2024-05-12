@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="60" height="60" />
-  <img src="https://camo.githubusercontent.com/94f694ca34bafb2dae5db2f42f240b426174c99b44a2af77f6d9d17f4b14aba8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672f32363070782d5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672e706e67" width="85" height="60" />
+  <img src="https://camo.githubusercontent.com/94f694ca34bafb2dae5db2f42f240b426174c99b44a2af77f6d9d17f4b14aba8/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672f32363070782d5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e7376672e706e67" width="95" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" width="60" height="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60" />
