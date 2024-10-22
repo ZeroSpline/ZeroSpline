@@ -13,9 +13,9 @@
 
 - 🚀 I'm looking for a job in Data Science.
 - 🌊 I solve the following tasks:
-      - Can conduct research and exploratory analysis
-      - Train classical ML models and neural network models
-      - Can assemble a microservice based on Streamlit.
+  - Can conduct research and exploratory analysis
+  - Train classical ML models and neural network models
+  - Can assemble a microservice based on Streamlit.
 - ⚡ I am looking for a new experience currently.
 - 💻 Very interested in Time Series and Computer Vision!
 - 💬 You can contact me via telegram https://t.me/skyspline
